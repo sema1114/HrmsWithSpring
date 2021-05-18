@@ -12,7 +12,7 @@ Registration to the system is made by Mernis verification.
 If the verification is not valid, the user is notified.
 If there is a previously registered e-mail or tcno, no registration will take place. The user is informed.
 Email verification is required for registration to occur.
-### Req 2: Employers should be able to register in the system.
+* ### Req 2: Employers should be able to register in the system.
 
  Accept conditions:
 
